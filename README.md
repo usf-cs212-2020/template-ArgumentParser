@@ -1,2 +1,3 @@
-# template-ArgumentParser
-Template repository for the ArgumentParser homework.
+# ArgumentParser
+
+See [README](ArgumentParser/README.md) for details.
