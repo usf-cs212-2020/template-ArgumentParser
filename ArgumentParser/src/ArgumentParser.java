@@ -16,7 +16,7 @@ public class ArgumentParser {
   private final Map<String, String> map;
 
   /**
-   * Initializes this argument map.
+   * Initializes this argument map. 
    */
   public ArgumentParser() {
     // TODO Properly initialize map below
